@@ -87,23 +87,6 @@ This structure improves maintainability, scalability, and code organization.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here after uploading them to the repository.
-
-Suggested screenshots:
-
-* Login Screen
-* Registration Screen
-* Home Dashboard
-* Add Task
-* Task Details
-* Category Management
-* Reminder Setup
-* Completed Tasks
-
----
-
 # 🚀 Getting Started
 
 ## Prerequisites
