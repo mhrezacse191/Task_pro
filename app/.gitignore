@@ -1,1 +1,15 @@
-/build
+# Android Studio
+.idea/
+.gradle/
+
+# Build output
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# Crash logs
+*.log
+hs_err_pid*
+replay_pid*
